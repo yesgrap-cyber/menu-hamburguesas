@@ -6,3 +6,8 @@ footer{
     background-color: #dc3545;
     color: #FFFFFF;
 }
+
+.card{
+    width: 270px;
+    height: 550px;
+}
